@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/Event.qml</file>
+        <file>qml/components/TrackSwitcher.qml</file>
+        <file>qml/components/Track.qml</file>
+        <file>qml/components/ConferenceHeader.qml</file>
+        <file>qml/components/ListItem.qml</file>
+        <file>qml/components/DropDownMenu.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file alias="bg">WP_20130818_010.jpg</file>
+        <file alias="info">110671-glowing-green-neon-icon-alphanumeric-information3-sc49.png</file>
+    </qresource>
+</RCC>
